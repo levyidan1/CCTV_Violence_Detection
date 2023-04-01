@@ -32,6 +32,8 @@ python main.py
 
 ## Architecture
 
+![Architecture](architecture.jpg "Architecture of the CCTV Violence Detection System")
+
 - A live stream is taken from a CCTV camera.
 - The live stream is split into audio and video, and each is analyzed separately, producing a score.
 - The individual scores are combined to produce a final score.
