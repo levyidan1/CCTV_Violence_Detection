@@ -20,7 +20,7 @@ cd CCTV-Violence-Detection-System
 conda create --name CCTV_Violence_Detection --file requirements.txt
 conda activate CCTV_Violence_Detection
 ```
-4. Insert the livestream URL (we used an android phone as a CCTV camera by using the IP Webcam app), your OpenAI organization key, and your API key in the relevant constants.
+4. Insert the livestream URL (we used an android phone as a CCTV camera by using the IP Webcam app), your OpenAI organization key and api key in the relevant constants.
 
 5. Change the constants in the beginning of the `main.py` file to change the behavior of the system.
 
