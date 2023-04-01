@@ -53,6 +53,7 @@ python main.py
 - The probability of the `'violent scene'` prompt is multiplied by the `VIDEO_WEIGHT`.
 
 ### GUI
+![UI](demo.jpg "GUI")
 
 - The GUI is done using tkinter.
 - The GUI displays the video from the livestream.
