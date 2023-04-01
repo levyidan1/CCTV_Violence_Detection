@@ -8,7 +8,7 @@ This project won the 1st place.
 
 1. Clone the repository:
 ```
-git clone https://github.com/levyidan1/CCTV-Violence-Detection-System.git
+git clone https://github.com/levyidan1/CCTV_Violence_Detection.git
 ```
 2. Navigate to the project directory:
 ```
