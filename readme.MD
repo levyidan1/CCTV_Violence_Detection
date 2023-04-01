@@ -13,6 +13,7 @@ git clone https://github.com/username/CCTV-Violence-Detection-System.git
 2. Navigate to the project directory:
 ```
 cd CCTV-Violence-Detection-System
+```
 
 3. Create a new conda environment:
 ```
