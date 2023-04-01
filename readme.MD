@@ -6,15 +6,18 @@ This project won the 1st place.
 
 ## Installation
 
-1. Clone the repository.
-'''git clone https://github.com/username/CCTV-Violence-Detection-System.git
-'''
-2. Navigate to the project directory.
-'''cd CCTV-Violence-Detection-System
-'''
-3. Create a new conda environment.
-'''conda create --name CCTV_Violence_Detection --file requirements.txt
-'''
+1. Clone the repository:
+```
+git clone https://github.com/username/CCTV-Violence-Detection-System.git
+```
+2. Navigate to the project directory:
+```
+cd CCTV-Violence-Detection-System
+
+3. Create a new conda environment:
+```
+conda create --name CCTV_Violence_Detection --file requirements.txt
+```
 4. Insert the livestream URL, the OpenAI organization key, and the API key in the relevant constants.
 
 5. Change the constants in the beginning of the `main.py` file to change the behavior of the system.
