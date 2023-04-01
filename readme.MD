@@ -23,7 +23,7 @@ conda create --name CCTV_Violence_Detection --file requirements.txt
 
 5. Change the constants in the beginning of the `main.py` file to change the behavior of the system.
 
-6. Use an android phone as a CCTV camera using the IP Webcam app.
+6. We used an android phone as a CCTV camera by using the IP Webcam app.
 
 ## Architecture
 
