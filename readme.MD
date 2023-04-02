@@ -1,6 +1,8 @@
 # CCTV Violence Detection System for Children's Hospitals
 
-![Demo Video](demo_video.mp4 "Demo Video")
+
+https://user-images.githubusercontent.com/18572770/229344915-3317ef89-b717-4443-8d78-d70224db4a2f.mp4   
+
 
 This project was done as part of the [CS Hackathon 2023](https://www.cshack-technion.com/), which took place on 30-31/03/2023.   
 The hackathon's aim was to improve the experience of hospital staff involved in the care of children and enhance the well-being of children and their families during their hospital stay.   
